@@ -1,0 +1,3 @@
+- Hi, I’m @kaitygarrett
+- I’m interested in app & web development
+- I’m currently learning Python 
